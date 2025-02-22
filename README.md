@@ -56,3 +56,6 @@ Contributions are welcome! Feel free to **fork** this repository and submit a **
 
 ## 📧 Contact
 For any suggestions or feedback, reach out via **GitHub Issues**.
+
+## **Author: Kintur Shah** <br>
+[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
