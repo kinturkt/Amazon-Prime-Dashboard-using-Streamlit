@@ -55,7 +55,4 @@ http://localhost:8501/
 Contributions are welcome! Feel free to **fork** this repository and submit a **pull request**. 🚀
 
 ## 📧 Contact
-For any suggestions or feedback, reach out via **GitHub Issues**.
-
-## **Author: Kintur Shah** <br>
-[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
+For any suggestions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
