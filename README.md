@@ -54,5 +54,8 @@ http://localhost:8501/
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **fork** this repository and submit a **pull request**. 🚀
 
+## Hosted on Streamlit CLoud
+[App]([url](https://amazon-prime-dashboard-by-kt.streamlit.app))
+
 ## 📧 Contact
 For any suggestions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
